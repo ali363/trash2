@@ -114,10 +114,10 @@ else {
 int time=12;
 if (time>10)
 {
-    printf("Time is 12'o CLock\n");
+    printf("Good Morning\n");
 }
 else {
-    printf("Time is 5'O clock\n");
+    printf("Good night\n");
 }
 
 return 0;
